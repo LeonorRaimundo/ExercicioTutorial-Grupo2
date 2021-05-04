@@ -1,0 +1,25 @@
+body
+			{
+				margin-top:50px;
+				background-image: linear-gradient(to right, #ffb3b3, #66ffe0);
+				overflow: hidden;
+			}
+
+img {
+height: auto;
+width: 500px;
+filter: contrast(100%);
+}
+
+
+h1{
+color: white;
+font-family: sans-serif;
+}
+
+
+div{
+text-align: center;
+
+
+}
